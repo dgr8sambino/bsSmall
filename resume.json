@@ -1,0 +1,61 @@
+{
+	"name": "Samuel Britton",
+	"email": "brittonsamuel99@gmail.com",
+	"phone": "(801) 949-1799",
+    "address": "Sandy, UT 84070",
+	"sections": [
+        {
+            "name": "Summary",
+            "summText": "Strategic problem-solver and exceptional communicator. Assisted in organizing The Game Machine which successfully founded and is now an operating and growing business. I am very capable and willing to learn new skills in order to complete tasks and finish jobs"
+        },
+
+	   {
+  	 	"name": "Education",
+  	 	"school": "Utah Valley University",
+       "major": "Software Engineering",
+        "startEnd": "August 2017 - Present",
+  	 	"gpa": "3.94 GPA",
+        "HSname": "Jordan High School",
+        "HSdegree": "Honors Degree",
+        "HSstartEnd": "August 2013 - June 2017",
+        "HSgpa": "3.956 GPA"
+	   },
+
+	    {
+  		"name": "Experience",
+  		"jobs": [
+  		  {
+          "role": "Game Guru/ Manager",
+          "company": "The Game Machine",
+          "startEnd": "Oct 2015 - Present",
+          "tasks": [
+            "Leveraged social media websites such as Instagram and Facebook to promote services and gauge customer needs and preferences.",
+            "Interviewed and hired new applicants.",
+            "Formulated a comprehensive business plan complete with clear and actionable sales goals and targets.",
+            "Consistent with following up with potential customers."
+          ]
+        },
+        {
+          "role": "Customer Support/Sales",
+          "company": "BigPayOut",
+          "startEnd": "May 2017 - August 2017",
+          "tasks": [
+            "Review customer online accounts and assist the customer when needed.",
+            "Contacted customers and assisted them in a comprehensive and effective manner.",
+            "Positively support the patients as they exercise and further their treatment."
+          ]
+        }
+      ]
+	  },
+
+    {
+      "name": "Skills",
+      "sk1": "Social media marketing",
+      "sk2":  "Operation analysis",
+      "sk3": "C++ and Python",
+      "sk4": "Hardware technician",
+      "sk5": "Customer oriented"
+      
+    }
+	]
+}

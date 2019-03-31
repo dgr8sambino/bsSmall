@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;
+    /* margin-left: 120px;
+    margin-right: 120px; */
+}
+
+h1 {
+    background-color: #4682b4;
+    color: white;
+    text-indent: 10px; 
+    /* padding: 10px; */
+    font-size: 150%;
+}
+
+h2 {
+    color: #4682b4;
+    border-bottom: 3px solid #4682b4;
+}
+.info {
+    font-size: 150%;
+}
+ .summ {
+    padding-left: 50px;
+    font-size: 150%;
+}
+
+.educ {
+    padding-left: 50px;
+    font-size: 150%;
+}
+
+.expr {
+    padding-left: 50px;
+    font-size: 150%;
+}
+
+.expr li{
+    padding-left: 50px;
+    
+}
+
+.skl {
+    padding-left: 50px;
+    font-size: 150%;
+} 
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #4682b4;
+    margin: 1em 0;
+    padding: 0;
+    font-size: 150%;
+}
